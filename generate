@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+generateDS -a "" -o  gnrelib/v1_12/tiposBasicoGNRE.py                schemas/v1.12/tiposBasicoGNRE_v1.00.xsd
+generateDS -a "" -o  gnrelib/v1_12/config_uf.py                      schemas/v1.12/config_uf_v1.00.xsd
+generateDS -a "" -o  gnrelib/v1_12/consulta_config_uf.py             schemas/v1.12/consulta_config_uf_v1.00.xsd
+generateDS -a "" -o  gnrelib/v1_12/lote_gnre_consulta.py             schemas/v1.12/lote_gnre_consulta_v1.00.xsd
+generateDS -a "" -o  gnrelib/v1_12/lote_gnre_recibo.py               schemas/v1.12/lote_gnre_recibo_v1.00.xsd
+generateDS -a "" -o  gnrelib/v1_12/lote_gnre_result.py               schemas/v1.12/lote_gnre_result_v1.00.xsd
+generateDS -a "" -o  gnrelib/v1_12/lote_gnre.py                      schemas/v1.12/lote_gnre_v1.00.xsd

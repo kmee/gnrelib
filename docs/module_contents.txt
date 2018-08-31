@@ -1,0 +1,9 @@
+Module contents
+=================
+
+.. automodule:: gnrelib
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
